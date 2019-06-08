@@ -24,5 +24,5 @@ There are 3 file in the project
 <br></br>
 `Node-Red` = It is used to control the GPIO pins for making the training data the high and low status of pins drive the motors and finally these status are captured in csv file.
 <br></br><b>
-It is important to launch both the node-red(which is used to control the gpio) and mk_training_data(which used to save the camera frames and gpio status in csv) for making training data.
+It is important to launch both the node-red(which is used to control the gpio) and mk_training_data file(which used to save the camera frames and gpio status in csv) for making training data.
 </b>
