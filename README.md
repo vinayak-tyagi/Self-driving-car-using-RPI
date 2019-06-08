@@ -22,7 +22,7 @@ Our Major aim for this project is to offline its working(without using the remot
 ## Description
 There are 3 file in the project
 
-- `mk_training_data` = This file is used to make training data which are images & CSV file. The images are captured from rpi camera module and csv is made from Node-red UI.
+- `mk_training_data` = This file is used to make training data which are images & CSV file. The images are captured from RPI Camera module and CSV is made from Node-Red.
 <b>This file need to exected in RPI itself </b> and one can change the data dir and someone can also saved its data in it's thumbdrive by simply connecting it to RPI and then change the dir path.
 <br></br>
 `Node-Red` = It is used to control the GPIO pins for making the training data the high and low status of pins drive the motors and finally these status are captured in csv file.
