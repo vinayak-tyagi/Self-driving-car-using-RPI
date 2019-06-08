@@ -33,4 +33,4 @@ Once the Excetution of this file has been done you will get the training model (
 
 - `rpi_MLModel_interaction` = This file uses the model(.h5 file) and interact with the GPIO's and PI Camera. Hence <b>this file needed to executed in RPI itself</b> beause it take the realtime feed and take the steps accordingly to drive.
 
-# Snapshort
+## Snapshorts
