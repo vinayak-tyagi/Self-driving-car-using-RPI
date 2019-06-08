@@ -45,6 +45,6 @@ Once the Excetution of this file has been done you will get the training model (
 ![image](https://user-images.githubusercontent.com/39195953/59143876-4175bb80-89ed-11e9-8ba3-18a5825f05af.png)
 
 ## References
-https://github.com/rodrigocava/mrrobot/
-https://github.com/RyanZotti/Self-Driving-Car
-https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+- https://github.com/rodrigocava/mrrobot/
+- https://github.com/RyanZotti/Self-Driving-Car
+- https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
