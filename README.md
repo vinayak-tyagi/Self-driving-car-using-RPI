@@ -36,6 +36,10 @@ Once the Excetution of this file has been done you will get the training model (
 
 - `rpi_MLModel_interaction` = This file uses the model(.h5 file) and interact with the GPIO's and PI Camera. Hence <b>this file needed to executed in RPI itself</b> beause it take the realtime feed and take the steps accordingly to drive.
 
+## Node-Red UI & Node Flow
+![image](https://user-images.githubusercontent.com/39195953/59143953-35d6c480-89ee-11e9-94aa-f1e2bd21fedd.png)
+![image](https://user-images.githubusercontent.com/39195953/59143979-86e6b880-89ee-11e9-9b79-34207c300cad.png)
+
 ## Snapshorts
 ![image](https://user-images.githubusercontent.com/39195953/59143850-17bc9480-89ed-11e9-932f-b2c91fa08801.png)
 ![image](https://user-images.githubusercontent.com/39195953/59143876-4175bb80-89ed-11e9-8ba3-18a5825f05af.png)
