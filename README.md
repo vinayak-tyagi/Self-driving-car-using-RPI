@@ -27,7 +27,7 @@ There are 3 file in the project
 It is important to launch both the node-red(which is used to control the gpio) and mk_training_data file(which used to save the camera frames and gpio status in csv) for making training data.
 </b>
 
-- `Self driven` = This file is the Main file it can be <b>excecuted anywhere(on Sever or on Local Machine) beacuse it is used for clean the data and training of ANN(Artificial Nural Network) model</b>. Only thing you to do is to change data dir to your data dir which you had made from runing above code. 
+- `Self driven` = This file is the Main file it can be <b>excecuted anywhere(on Sever or on Local Machine depending on your data size)</b> beacuse it is used for clean the data and training of ANN(Artificial Nural Network) model. Only thing you need do is to change data dir to your data dir which you had made from runing above code(mk_training_data). 
 <br></br>
 Once the Excetution of this file has been done you will get the training model (.h5 file) as the output in your working dir.
 
