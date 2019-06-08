@@ -32,3 +32,5 @@ It is important to launch both the node-red(which is used to control the gpio) a
 Once the Excetution of this file has been done you will get the training model (.h5 file) as the output in your working dir.
 
 - `rpi_MLModel_interaction` = This file uses the model(.h5 file) and interact with the GPIO's and PI Camera. Hence <b>this file needed to executed in RPI itself</b> beause it take the realtime feed and take the steps accordingly to drive.
+
+# Snapshort
