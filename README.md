@@ -48,3 +48,4 @@ Once the Excetution of this file has been done you will get the training model (
 - https://github.com/rodrigocava/mrrobot/
 - https://github.com/RyanZotti/Self-Driving-Car
 - https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+- https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
