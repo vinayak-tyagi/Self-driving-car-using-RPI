@@ -1,4 +1,4 @@
-# Self-driving-car-using-RPI
+# Self Driving Car Using RPI
 Our Major aim for this project is to offline its working(without using the remote servers like AWS, Google Cloud) for ML Model prediction. The reason for that is Latency (Response time/Internet Speed), since project need the quick response (less than a sec) and internet connection issues in various areas.
 
 ## Hardware
