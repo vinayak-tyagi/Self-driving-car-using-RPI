@@ -1,4 +1,4 @@
-If you are looking for `US Adults Income Prediction System using Machine Learning` or `Blindness Detection  on Kaggle` project and redirects to this project, please click on the link below:
+If you are looking for different project and redirects to this project, please! feel free to click the link below:
 - `US Adults Income Prediction System using Machine Learning` - [Link](https://github.com/vinayak-tyagi/Income-prediction)
 - `Blindness Detection  on Kaggle` - [Link](https://www.kaggle.com/vinayak123tyagi/blindness-detection)
 
