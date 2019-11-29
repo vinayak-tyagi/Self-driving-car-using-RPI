@@ -1,4 +1,4 @@
-If you are looking for different project and redirects to this project, please! feel free to click the link below:
+If you are looking for different project and redirects to this project, please! feel free to click on the link below:
 - `US Adults Income Prediction System using Machine Learning` - [Link](https://github.com/vinayak-tyagi/Income-prediction)
 - `Blindness Detection  on Kaggle` - [Link](https://www.kaggle.com/vinayak123tyagi/blindness-detection)
 
