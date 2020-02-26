@@ -1,7 +1,3 @@
-If you are looking for different project and redirects to this project, Please! feel free to click on the link below:
-- `US Adults Income Prediction System using Machine Learning` - [Link](https://github.com/vinayak-tyagi/Income-prediction)
-- `Blindness Detection  on Kaggle` - [Link](https://www.kaggle.com/vinayak123tyagi/blindness-detection)
-
 # Self Driving Car Using RPI
 Our Major aim for this project is to offline its working(without using the remote servers like AWS, Google Cloud) for ML Model prediction. The reason for that is Latency (Response time/Internet Speed), since project need the quick response (less than a sec) and internet connection issues in various areas.
 
